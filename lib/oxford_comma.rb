@@ -10,8 +10,9 @@ elsif array.length == 2
 else 
   last = array.pop
   array << " and"
-  array << last
   array.join(", ")
+  array << last
+  
   
 
   
