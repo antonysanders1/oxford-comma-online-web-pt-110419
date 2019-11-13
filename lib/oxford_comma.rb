@@ -1,6 +1,9 @@
 def oxford_comma(array)
 # binding.pry
- array = "kiwi"
+ array = []
 
+  if array.length = 1 
+    return "kiwi"
+  end
   
 end 
