@@ -5,7 +5,7 @@ def oxford_comma(array)
  case array
   when "kiwi"
     return "kiwi"
-  when
+  when "kiwi", durian"
   
   
   end
