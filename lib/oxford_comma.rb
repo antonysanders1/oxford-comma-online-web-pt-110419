@@ -1,7 +1,7 @@
 def oxford_comma(array)
- binding.pry
+# binding.pry
  
-
+array = "kiwi"
 
   
 end 
