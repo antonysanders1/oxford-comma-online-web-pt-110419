@@ -14,7 +14,7 @@ elsif array.length == 3
   
   return 
   #return "kiwi, durian, and starfruit"
-elsif array.length > 3
+else array.length > 3
   return array.join (", ")
 end 
   
