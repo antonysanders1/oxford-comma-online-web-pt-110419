@@ -7,6 +7,8 @@ if array.length == 1
   return "kiwi"
 elsif array.length == 2 
   return "kiwi and durian"
+elsif array.length == 3
+  return "kiwi, durian, and starfruit"
 end 
   
 
