@@ -1,6 +1,6 @@
 def oxford_comma(array)
  
- array = "kiwi"
+ array.lenght = 1 
   
  case array
   when "kiwi"
