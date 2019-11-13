@@ -7,5 +7,5 @@ if array.length == 1
   return "kiwi"
 end 
   
-  array
+
 end 
