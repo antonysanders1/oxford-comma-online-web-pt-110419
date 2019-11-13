@@ -12,13 +12,8 @@ else
   last = array.pop
   
    binding.pry
-  return 
-  #return "kiwi, durian, and starfruit"
 
-
-#else array.length > 3
-#  return array.join (", ")
-#end 
+end 
   
 
 end 
