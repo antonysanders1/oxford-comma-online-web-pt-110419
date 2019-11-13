@@ -1,5 +1,3 @@
-require "pry"
-
 def oxford_comma(array)
 
 
@@ -11,11 +9,7 @@ else
   last = "and " + array.pop
   array << last
   array.join(", ")
-  
-  
 
-  
-#   binding.pry
 
 end 
   
