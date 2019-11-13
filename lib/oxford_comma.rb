@@ -1,7 +1,7 @@
-require pry
+require "pry"
 
 def oxford_comma(array)
-# binding.pry
+ binding.pry
  
 #array = "kiwi"
 
