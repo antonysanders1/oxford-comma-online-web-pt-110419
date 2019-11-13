@@ -10,7 +10,7 @@ elsif array.length == 2
 elsif array.length == 3
   return "kiwi, durian, and starfruit"
 elsif array.length > 3
-  return "kiwi, durian, starfruit, mangos, and dragon fruits"
+  return array
 end 
   
 
