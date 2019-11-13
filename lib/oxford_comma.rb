@@ -8,8 +8,8 @@ if array.length == 1
 elsif array.length == 2 
   return array.join(" and ")
 else 
-  array.join(", ")
   last = array.pop
+  array.join(", ")
   
   array + ", and" + last
    binding.pry
