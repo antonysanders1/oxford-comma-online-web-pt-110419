@@ -11,6 +11,7 @@ else
   array.join(", ")
   last = array.pop
   
+  array + ", and" + last
    binding.pry
 
 end 
