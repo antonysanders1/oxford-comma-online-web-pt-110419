@@ -15,7 +15,7 @@ else
   
 
   
-   binding.pry
+#   binding.pry
 
 end 
   
