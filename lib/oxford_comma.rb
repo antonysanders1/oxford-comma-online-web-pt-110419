@@ -8,10 +8,10 @@ if array.length == 1
 elsif array.length == 2 
   return array.join(" and ")
 else 
-  last = "and" + array.pop
-  array.join(", ")
+  last = "and " + array.pop
+  #array.join(", ")
   #array << "and"
-  #array << last
+  array << last
   array.join(", ")
   
   
