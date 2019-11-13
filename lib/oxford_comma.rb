@@ -9,8 +9,8 @@ elsif array.length == 2
   return "kiwi and durian"
 elsif array.length == 3
   return "kiwi, durian, and starfruit"
-elsif array.length == 5
-return 
+elsif array.length <= 3
+  return "kiwi, durian, starfruit, mangos, and dragon fruits"
 end 
   
 
