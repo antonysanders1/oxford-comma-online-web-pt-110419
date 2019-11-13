@@ -12,7 +12,7 @@ else
   array << " and"
   array.join(", ")
   array << last
-  array.join
+
   
 
   
