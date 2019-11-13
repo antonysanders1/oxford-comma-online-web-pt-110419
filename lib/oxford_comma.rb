@@ -9,8 +9,7 @@ elsif array.length == 2
   return array.join(" and ")
 else 
   last = array.pop
-  array << "and"
-  array.join(", ")
+  array << " and"
   array << last
   array.join(", ")
   
