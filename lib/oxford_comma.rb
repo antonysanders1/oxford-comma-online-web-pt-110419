@@ -9,9 +9,11 @@ elsif array.length == 2
   return array.join(" and ")
 else 
   last = array.pop
+  array << " and "
+  array << last
   array.join(", ")
   
-  array << ", and "
+
   
    binding.pry
 
