@@ -3,7 +3,7 @@ def oxford_comma(array)
  
 array = "kiwi"
 
-if array.length = 2
+if array.length == 2
 
   
 end 
